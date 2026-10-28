@@ -16,6 +16,15 @@
 ![Railway](https://img.shields.io/badge/Railway-131415.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-39C5E8.svg?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2F2F2F.svg?style=for-the-badge)
+![tcpdump](https://img.shields.io/badge/tcpdump-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-1A1A1A.svg?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-033A9D.svg?style=for-the-badge)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BrayanRCS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=BrayanRCS&theme=dark&hide_border=false)<br/>
